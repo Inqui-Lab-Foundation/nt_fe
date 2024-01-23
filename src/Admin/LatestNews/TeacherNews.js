@@ -556,7 +556,7 @@ const AdminLatestNews = () => {
                         {reqList ? (
                             <h2>Student Latest News</h2>
                         ) : (
-                            <h2>Teacher Latest News</h2>
+                            <h2>Teachersssss Latest News</h2>
                         )}
                     </Col>
 
